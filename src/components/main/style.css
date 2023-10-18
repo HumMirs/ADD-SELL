@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+.main-container {
+  border: 1px solid black;
+  margin: 100px auto;
+  background-color: pink;
+  color: black;
+  width: 40%;
+  padding: 30px;
+  line-height: 30px;
+  border-radius: 30px;
+}
+
+.main-container h2 {
+  text-align: center;
+  padding-bottom: 20px;
+  color: black;
+}
+
+.main-container p {
+  font-size: 20px;
+}
+
+.main-container button {
+  background-color: black;
+  color: white;
+  width: 30%;
+  margin: 10px;
+  border-radius: 20px;
+  margin-left: 55px;
+  font-size: 13px;
+  padding: 5px;
+}
